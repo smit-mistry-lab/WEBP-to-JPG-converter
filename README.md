@@ -1,7 +1,7 @@
 ## Features:
 
 -   Converts .webp images to .jpg
--   Renames the output files in the format US_HOME\_{number}.jpg
+-   Renames the output files in the format US_HOME\_{number}.jpg (Change it to your requirement)
 -   Easy-to-use, single-script solution
 
 ## Requirements:
